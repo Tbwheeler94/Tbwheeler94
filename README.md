@@ -15,7 +15,7 @@
 
 ### Some of my projects (see "pinned" section for repos)
 
-- ⚡️🏙 Data Center Energy Dashboard: Developed interactive R shiny app that visualizes trends in data center energy use and reporting transparency for the [Industrial Sustainability Analysis Lab](https://carlobroderick.wixsite.com/isalab)
+- ⚡️🏙 Data Center Energy Dashboard: Developed interactive R shiny app that visualizes trends in data center energy use and reporting transparency of 40 (and growing) tech companies for the [Industrial Sustainability Analysis Lab](https://carlobroderick.wixsite.com/isalab)
 - 🛒🛍 Ecommerce Dashboard: Developed machine learning algorithms to predict customer reviews and willingness to reorder. Developed dashboard to interact with algorithm using Flask and Python.
 
 ### 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/thomaswheeler94/)!
