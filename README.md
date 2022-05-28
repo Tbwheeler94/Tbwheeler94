@@ -12,7 +12,7 @@
 - 🌎 B.S. Environmental Science from Santa Clara University
 - Originally from San Diego
 
-### 📫 Connect with me on Linkedin!
+### 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/thomaswheeler94/)!
 
 <!--
 **Tbwheeler94/Tbwheeler94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
