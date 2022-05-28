@@ -4,7 +4,7 @@
 - 🧐 Interests: The energy transition, zero-carbon energy deployment and financing, demand-side solutions to meeting climate goals
 - 🌱 I’m currently learning Django and improving my Javascript.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to surf 🌊🏄‍♂️ and I lived in the rural Philippines for a year 🇵🇭
+- ⚡ Fun fact: I love to surf 🌊🏄‍♂️ and I lived in the Philippines for a year 🇵🇭
 
 ### A little bit about me
 
