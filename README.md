@@ -1,10 +1,11 @@
 ### Hi there 👋 welcome to my Github!
 
-- 🔭 I’m currently developing an interactive dashboard to calculate the levelized cost of energy (LCOE) and lifetime value of wind and solar projects in California.
-- 🧐 Interests: The energy transition, zero-carbon energy deployment and financing, demand-side solutions to meeting climate goals
-- 🌱 I’m currently learning Django and improving my Javascript.
+- ☀️🔋 Currently developing [energyexplorer.io](https://energyexplorer.io/), a Django dashboard to calculate the value of a utility-scale front-of-meter solar energy generation project in CA.
+- 🧐 Interests: The energy transition, zero-carbon energy deployment and financing, demand-side solutions to meeting climate goals.
+- 🤓 Languages/frameworks I've worked with: Django, Python, R Shiny, R, Frontend web dev (HTML, CSS, JS)
+- 🌱 I’m currently re-learning SQL.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to surf 🌊🏄‍♂️ and I lived in the Philippines for a year 🇵🇭
+- ⚡ Fun fact: I love to surf 🌊🏄‍♂️ and am converting a utility van 🚐 into a camper van 🚐🏕️.
 
 ### A little bit about me
 
@@ -13,10 +14,10 @@
 - 🌎 B.S. Environmental Science from Santa Clara University
 - Originally from San Diego
 
-### Some of my projects (see "pinned" section for repos)
+### Some of my past projects (see "pinned" section for repos)
 
-- ⚡️🏙 Data Center Energy Dashboard: Developed interactive R shiny app that visualizes trends in data center energy use and reporting transparency of 40 (and growing) tech companies for the [Industrial Sustainability Analysis Lab](https://carlobroderick.wixsite.com/isalab).
-- 🌊🐟 Developed sub-routine in Python for [Scoot Science's](https://www.scootscience.com) quality control routine to detect sea surface temperature data with a high likelihood of being generated in error (repo not festured).
+- ⚡️🏙 Data Center Energy Dashboard: Developed interactive R shiny app that visualizes trends in data center energy use and reporting transparency of 40 (and growing) tech companies for the Industrial Sustainability Analysis Lab.
+- 🌊🐟 Developed routine in Python for [Scoot Science's](https://www.scootscience.com) quality control routine to detect erroneous sea surface temperature data from public and customer datasets (repo is private).
 - 🛒🛍 Ecommerce Dashboard: Developed machine learning algorithms to predict customer reviews and willingness to reorder. Developed dashboard to interact with algorithm using Flask and Python.
 
 ### 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/thomaswheeler94/)!
