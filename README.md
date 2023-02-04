@@ -20,7 +20,9 @@
 - 🌊🐟 Developed routine in Python for [Scoot Science's](https://www.scootscience.com) quality control routine to detect erroneous sea surface temperature data from public and customer datasets (repo is private).
 - 🛒🛍 Ecommerce Dashboard: Developed machine learning algorithms to predict customer reviews and willingness to reorder. Developed dashboard to interact with algorithm using Flask and Python.
 
-### 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/thomaswheeler94/)!
+### 🌐 Learn more about my work on my [personal website](https://tbwheeler94.github.io)
+
+### 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/thomaswheeler94/)
 
 <!--
 **Tbwheeler94/Tbwheeler94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
