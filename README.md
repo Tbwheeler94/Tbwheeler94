@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome to my Github!
 
-- ☀️🔋 Currently developing [energyexplorer.io](https://energyexplorer.io/), a Django dashboard to calculate the value of a utility-scale front-of-meter solar energy generation project in CA.
+- ☀️🔋 Currently developing [energyexplorer.io](https://energy-explorer.herokuapp.com/site-finder/), a Django dashboard to calculate the value of a utility-scale front-of-meter solar energy generation project in CA.
 - 🧐 Interests: The energy transition, zero-carbon energy deployment and financing, demand-side solutions to meeting climate goals.
 - 🤓 Languages/frameworks I've worked with: Django, Python, R Shiny, R, Frontend web dev (HTML, CSS, JS)
 - 🌱 I’m currently re-learning SQL.
